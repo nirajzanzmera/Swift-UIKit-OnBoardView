@@ -1,0 +1,6 @@
+framework module Pods_OnBoardView {
+  umbrella header "Pods-OnBoardView-umbrella.h"
+
+  export *
+  module * { export * }
+}
